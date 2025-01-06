@@ -5,8 +5,9 @@
   <img src="./docs/github_assests/typescript.svg" alt="typescript" height="50"/>
   <img src="./docs/github_assests/html-logo.svg" alt="html" height="50"/>
   <img src="./docs/github_assests/css-logo.svg" alt="CSS" height="50"/>
-  <img src="./docs/github_assests/next.svg" alt="CSS" height="50"/>
   <img src="./docs/github_assests/react-logo.svg" alt="React" height="50"/>
+  <img src="./docs/github_assests/redux.svg" alt="Redux" height="50"/>
+  <img src="./docs/github_assests/next.svg" alt="CSS" height="50"/>
   <img src="./docs/github_assests/tailwind.svg" alt="CSS" height="50"/>
   <img src="./docs/github_assests/vite-logo.svg" alt="vite" height="50"/>
   <img src="./docs/github_assests/npm-logo.svg" alt="npm" height="50"/>
